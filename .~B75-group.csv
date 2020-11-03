@@ -1,0 +1,21 @@
+Group,id
+Uninfected Control,1
+Tumor only,2
+HIV,3
+HIV + Tumor,4
+Uninfected Control,5
+Tumor only,6
+HIV,7
+HIV + Tumor,8
+Uninfected Control,9
+Tumor only,10
+HIV,11
+HIV + Tumor,12
+Tumor only,13
+HIV,14
+HIV + Tumor,15
+Tumor only,16
+HIV,17
+HIV + Tumor,18
+Uninfected Control,19
+HIV + Tumor,20
